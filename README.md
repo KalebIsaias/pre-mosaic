@@ -78,21 +78,21 @@ graph TD
    
 
 Organização dos Repositórios
-'''
+```bash
 /project
 ├── backend-api/          
 ├── frontend/             
 ├── model/                # Notebook + modelo .pkl ou .joblib
 ├── data_pipeline/        
 └── docker-compose.yml    # Infra mínima local
-'''bash
+```
 
 Links legais
 
-    [Outlier](https://www.kaggle.com/code/nareshbhat/outlier-the-silent-killer)
-    [Attrition in an Organization](https://www.kaggle.com/code/janiobachmann/attrition-in-an-organization-why-workers-quit/notebook)
-    [Decision Trees & Random Forest](https://www.kaggle.com/code/faressayah/decision-trees-random-forest-for-beginners)
-    [Employee attrition via Ensemble tree-based methods](https://www.kaggle.com/code/arthurtok/employee-attrition-via-ensemble-tree-based-methods)
-    [HR Analytics Prediction](https://www.kaggle.com/code/paramarthasengupta/hr-analytics-prediction-why-do-people-resign)
-    [Employee Attrition & Performance](https://www.kaggle.com/code/faressayah/ibm-hr-analytics-employee-attrition-performance)
-    [Attrition Analysis and Prediction](https://www.kaggle.com/code/vincentlugat/ibm-attrition-analysis-and-prediction)
+[Outlier](https://www.kaggle.com/code/nareshbhat/outlier-the-silent-killer)</br>
+[Attrition in an Organization](https://www.kaggle.com/code/janiobachmann/attrition-in-an-organization-why-workers-quit/notebook)</br>
+[Decision Trees & Random Forest](https://www.kaggle.com/code/faressayah/decision-trees-random-forest-for-beginners)</br>
+[Employee attrition via Ensemble tree-based methods](https://www.kaggle.com/code/arthurtok/employee-attrition-via-ensemble-tree-based-methods)</br>
+[HR Analytics Prediction](https://www.kaggle.com/code/paramarthasengupta/hr-analytics-prediction-why-do-people-resign)</br>
+[Employee Attrition & Performance](https://www.kaggle.com/code/faressayah/ibm-hr-analytics-employee-attrition-performance)</br>
+[Attrition Analysis and Prediction](https://www.kaggle.com/code/vincentlugat/ibm-attrition-analysis-and-prediction)</br>
